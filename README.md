@@ -10,6 +10,8 @@ Muy simple, usando pequeños bucles infinitos mientras se espera un KeyboardInte
 Se haceptan Pull Request, Issues y comentarios constructivos!
 
 Este programa tiene dos modos.
+### Capacidades
+Después de hacer varias pruebas he podido un pequeño afecto a la red de ```100 MB``` de carga desde solo un dispositivo.
 
 #### Modo Básico
 Ejecutado directamente se puede introducir únicamente la IP.
